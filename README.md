@@ -1,2 +1,2 @@
 # portfolio1
-Practice portfolio using CSS 
+Practice portfolio using HTML and CSS 
